@@ -1,0 +1,446 @@
+
+
+
+UNIVERSITAS AGAMA ISLAM NEGERI (UIN) PALANGKA RAYA
+FAKULTAS TARBIYAH DAN ILMU KEGURUAN (FTIK) 
+PROGRAM STUDI TEKNOLOGI INFORMASI
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Nama Mata Kuliah
+Kode Mata Kuliah
+Bobot (sks)
+Semester
+Tgl Penyusunan
+Algoritma dan Pemrograman
+TI.26.103
+3 SKS
+1
+08 Januari 2026
+Otorisasi
+Nama Koordinator Pengembang RPS
+Koordinator Bidang Keahlian 
+Ketua/ Sekretaris Prodi
+
+
+
+
+Heri Setiawan, M. Kom 
+
+
+
+Rio Irawan, M. Kom
+
+
+
+Slamet Riyadi, M.Kom
+
+Capaian Pembelajaran (CP)
+CPL-PRODI  (Capaian Pembelajaran Lulusan Program Studi) Yang Dibebankan Pada Mata Kuliah     
+
+CPL01
+Mempunyai pengetahuan matematika, computing, dan ilmu pengetahuan lain yang relevan untuk menyelesaikan permasalahan computing yang kompleks dengan pendekatan teknologi informasi.
+
+CPL02
+Mampu menganalisis, mengidentifikasi, dan mendefinisikan permasalahan computing yang kompleks serta memberikan pendekatan teknologi informasi sebagai solusi penyelesaian permasalahan tersebut.
+
+CPL03
+Mampu merancang, mengimplementasikan, dan mengevaluasi solusi berbasis computing sesuai kebutuhan organisasi dan masyarakat.
+
+CPMK (Capaian Pembelajaran Mata Kuliah)
+
+CPMK011
+Mampu menjelaskan konsep dasar komputasi, algoritma, logika pemrograman, tipe data, operator, dan struktur kendali sebagai landasan penyusunan program komputer.
+
+CPMK012
+Mampu menerapkan konsep matematika dan logika komputasi dalam menyusun algoritma, flowchart, pseudocode, dan implementasi program sederhana untuk menyelesaikan permasalahan komputasi.
+
+CPMK021
+Mampu menganalisis permasalahan komputasi serta menyusun algoritma penyelesaian yang efektif dan efisien menggunakan pendekatan pemrograman terstruktur.
+
+CPMK022
+Mampu merancang solusi perangkat lunak sederhana melalui implementasi fungsi/prosedur, array, string, serta teknik pengujian dan debugging program.
+
+CPMK031
+Mampu mengimplementasikan, menguji, dan mengevaluasi program sederhana sesuai kebutuhan pengguna dengan menerapkan prinsip pemrograman yang baik dan terdokumentasi.
+
+Pemetaan CPL terhadap CPMK
+
+
+
+CPL \ CPMK
+CPMK011
+CPMK012
+CPMK021
+CPMK022
+CPMK031
+CPL01
+✔
+✔
+
+
+
+CPL02
+
+✔
+✔
+✔
+
+CPL03
+
+
+
+✔
+✔
+
+
+
+
+Kemampuan akhir tiap tahapan belajar (Sub-CPMK)
+
+Sub-CPMK1
+Mampu menjelaskan konsep dasar komputasi, algoritma, logika pemrograman, serta tahapan penyelesaian masalah menggunakan algoritma.
+
+Sub-CPMK2
+Mampu menyusun algoritma menggunakan pseudocode dan flowchart berdasarkan permasalahan komputasi sederhana.
+
+Sub-CPMK3
+Mampu mengimplementasikan algoritma ke dalam bahasa pemrograman dengan menggunakan tipe data, variabel, operator, input-output, dan struktur kendali.
+
+Sub-CPMK4
+Mampu merancang program menggunakan struktur percabangan, perulangan, fungsi/prosedur, serta array untuk menyelesaikan permasalahan komputasi.
+
+Sub-CPMK5
+Mampu mengelola data menggunakan array, string, dan fungsi dalam penyusunan program yang terstruktur dan modular.
+
+Sub-CPMK6
+Mampu menerapkan teknik pengujian (testing) dan debugging untuk menemukan serta memperbaiki kesalahan pada program.
+
+Sub-CPMK7
+Mampu mengembangkan aplikasi sederhana sesuai kebutuhan pengguna dengan menerapkan prinsip pemrograman yang baik dan efisien.
+
+Sub-CPMK8
+Mampu mendokumentasikan, mempresentasikan, serta mengevaluasi hasil pengembangan program secara sistematis sesuai kaidah ilmiah.
+
+Korelasi antara CPL/CPMK terhadap Sub-CPMK
+
+
+CPMK
+Sub-CPMK1
+Sub-CPMK2
+Sub-CPMK3
+Sub-CPMK4
+Sub-CPMK5
+Sub-CPMK6
+Sub-CPMK7
+Sub-CPMK8
+CPMK011
+√
+√
+
+
+
+
+
+
+CPMK012
+
+√
+√
+√
+
+
+
+
+CPMK021
+
+
+√
+√
+√
+
+
+
+CPMK022
+
+
+
+√
+√
+√
+
+
+CPMK031
+
+
+
+
+
+√
+√
+√
+
+
+
+Deskripsi Singkat MK
+Mata kuliah Algoritma dan Pemrograman membahas konsep dasar algoritma, logika pemrograman, serta teknik penyelesaian masalah komputasi melalui penyusunan algoritma dan implementasinya menggunakan bahasa pemrograman. Materi meliputi konsep algoritma, pseudocode, flowchart, tipe data, variabel, operator, struktur kendali, fungsi/prosedur, array, string, teknik debugging, pengujian program, serta pengembangan aplikasi sederhana. Setelah mengikuti mata kuliah ini, mahasiswa mampu menganalisis permasalahan komputasi, merancang algoritma yang efektif, mengimplementasikan solusi dalam bentuk program, melakukan pengujian dan debugging, serta mendokumentasikan hasil pengembangan program sesuai kaidah pemrograman yang baik.
+Bahan Kajian / Materi Pembelajaran
+	•	Konsep dasar algoritma dan pemrograman
+	•	Logika algoritma, flowchart, dan pseudocode
+	•	Struktur dasar program, tipe data, variabel, dan konstanta
+	•	Operator, ekspresi, dan input-output
+	•	Struktur kendali percabangan (if, switch-case)
+	•	Struktur kendali perulangan (for, while, do-while)
+	•	Fungsi (function) dan prosedur (procedure)
+	•	Array satu dimensi dan dua dimensi
+	•	String dan manipulasi karakter
+	•	Modularisasi program dan ruang lingkup variabel (scope)
+	•	Teknik pencarian kesalahan (debugging) dan penanganan kesalahan (error handling)
+	•	Pengujian program (program testing) dan validasi hasil
+	•	Implementasi program sederhana berbasis studi kasus
+	•	Dokumentasi program, presentasi hasil, dan evaluasi program 
+Daftar Referensi
+Utama:
+
+
+	•	Deitel, P. J., & Deitel, H. M. (2022). C How to Program (9th Edition). Pearson
+
+Pendukung:
+
+
+	•	Downey, A. (2024). Think Python: How to Think Like a Computer Scientist (3rd Edition). O'Reilly Media.
+	•	Gaddis, T. (2022). Starting Out with Programming Logic and Design (6th Edition). Pearson.
+	•	Sedgewick, R., & Wayne, K. (2022). Computer Science: An Interdisciplinary Approach (2nd Edition). Addison-Wesley.
+	•	Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to Algorithms (4th Edition). MIT Press.
+	•	Downey, A. B. (2021). Think Java: How to Think Like a Computer Scientist (2nd Edition). O'Reilly Media.
+	•	Rosa, A. S., & Shalahuddin, M. (2024). Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek (Edisi Revisi). Informatika Bandung.
+	•	Kadir, A. (2021). Dasar Pemrograman. Penerbit Andi.
+	•	Nugroho, A. (2023). Algoritma dan Pemrograman dengan Python. Informatika Bandung.
+Nama Dosen Pengampu
+Heri Setiawan, M. Kom
+Mata kuliah prasyarat (Jika ada)
+-
+
+
+Minggu Ke-
+Sub-CPMK (Kemampuan akhir yg direncanakan)
+Bahan Kajian (Materi Pembelajaran)
+Bentuk dan Metode Pembelajaran (Media & Sumber Belajar)
+Estimasi Waktu
+Pengalaman Belajar Mahasiswa
+Penilaian
+
+
+
+
+
+
+Kriteria & Bentuk
+Indikator
+Bobot (%)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+1
+Menjelaskan konsep dasar algoritma dan pemrograman.
+Konsep dasar algoritma dan pemrograman
+Ceramah, diskusi. Media: Slide, LCD. Sumber: Deitel (2022).
+TM 3×50
+Mengidentifikasi konsep algoritma dan program
+Observasi, diskusi
+Menjelaskan konsep algoritma dengan benar
+100
+2
+Menyusun algoritma menggunakan flowchart dan pseudocode.
+Logika algoritma, flowchart, pseudocode
+Ceramah, latihan
+TM 3×50
+Menyusun flowchart dan pseudocode
+Tugas Individu
+Flowchart dan pseudocode sesuai kasus
+100
+3
+Mengimplementasikan algoritma menggunakan tipe data, variabel, dan konstanta.
+Struktur dasar program, tipe data, variabel, konstanta
+Ceramah, praktikum
+TM 3×50
+Menulis program sederhana
+Praktikum
+Program berjalan dengan benar
+100
+4
+Mengimplementasikan operator, ekspresi, serta input-output.
+Operator, ekspresi, input-output
+Ceramah, praktikum
+TM 3×50
+Membuat program perhitungan sederhana
+Praktikum
+Penggunaan operator dan I/O benar
+100
+5
+Mengembangkan program menggunakan percabangan.
+Struktur kendali percabangan (if, switch-case)
+Ceramah, praktikum
+TM 3×50
+Membuat program keputusan
+Praktikum
+Program percabangan sesuai logika
+100
+6
+Mengembangkan program menggunakan perulangan.
+Struktur kendali perulangan (for, while, do-while)
+Ceramah, praktikum
+TM 3×50
+Membuat program perulangan
+Praktikum
+Program menghasilkan output yang benar
+100
+7
+Mengembangkan program modular menggunakan fungsi dan prosedur.
+Fungsi (function) dan prosedur (procedure)
+Praktikum, latihan
+TM 3×50
+Membuat program modular
+Praktikum
+Fungsi dan prosedur digunakan dengan tepat
+100
+8
+Ujian Tengah Semester (UTS)
+Materi Minggu 1–7
+Tes tertulis dan/atau praktik
+TM 3×50
+Evaluasi CPMK011 & CPMK012
+UTS
+Nilai sesuai rubrik
+100
+9
+Menggunakan array dalam penyelesaian masalah.
+Array satu dimensi dan dua dimensi
+Praktikum
+TM 3×50
+Mengolah data menggunakan array
+Praktikum
+Program array berjalan benar
+100
+10
+Mengolah data menggunakan string.
+String dan manipulasi karakter
+Praktikum
+TM 3×50
+Membuat program pengolahan string
+Praktikum
+Manipulasi string sesuai kebutuhan
+100
+11
+Mengembangkan program modular yang terstruktur.
+Modularisasi program dan ruang lingkup variabel (scope)
+Ceramah, praktikum
+TM 3×50
+Menyusun program modular
+Praktikum
+Program lebih terstruktur dan efisien
+100
+12
+Menguji dan memperbaiki kesalahan program.
+Teknik debugging dan error handling
+Praktikum
+TM 3×50
+Melakukan debugging
+Praktikum
+Kesalahan program berhasil diperbaiki
+100
+13
+Menguji dan memvalidasi hasil program.
+Program testing dan validasi hasil
+Praktikum
+TM 3×50
+Menguji program menggunakan beberapa skenario
+Praktikum
+Program lolos pengujian
+100
+14
+Mengembangkan aplikasi sederhana berbasis studi kasus.
+Implementasi program sederhana berbasis studi kasus
+Project Based Learning
+TM 3×50
+Mengembangkan aplikasi sederhana
+Proyek
+Program memenuhi kebutuhan pengguna
+100
+15
+Mendokumentasikan dan mempresentasikan hasil program.
+Dokumentasi program, presentasi hasil, evaluasi program
+Presentasi, diskusi
+TM 3×50
+Menyusun laporan dan presentasi
+Presentasi Proyek
+Laporan lengkap dan presentasi baik
+100
+16
+Ujian Akhir Semester (UAS)
+Seluruh materi dan proyek
+Tes praktik dan presentasi
+TM 3×50
+Evaluasi seluruh CPMK
+UAS
+Nilai sesuai rubrik
+100
+
+
+
+Catatan:
+	•	Capaian Pembelajaran Lulusan PRODI (CPL-PRODI) adalah kemampuan yang dimiliki oleh setiap lulusan PRODI yang merupakan internalisasi dari sikap, penguasaan pengetahuan dan keterampilan sesuai dengan jenjang prodinya yang diperoleh melalui proses pembelajaran.
+	•	CPL yang dibebankan pada mata kuliah adalah beberapa capaian pembelajaran lulusan program studi (CPL-PRODI) yang digunakan untuk pembentukan/pengembangan sebuah mata kuliah yang terdiri dari aspek sikap, keterampilan umum, ketrampilan khusus dan pengetahuan.
+	•	CP Mata kuliah (CPMK) adalah kemampuan yang dijabarkan secara spesifik dari CPL yang dibebankan pada mata kuliah, dan bersifat spesifik terhadap bahan kajian atau materi pembelajaran mata kuliah tersebut.
+	•	Sub-CP Mata kuliah (Sub-CPMK) adalah kemampuan yang dijabarkan secara spesifik dari CPMK yang dapat diukur atau diamati dan merupakan kemampuan akhir yang direncanakan pada tiap tahap pembelajaran, dan bersifat spesifik terhadap materi pembelajaran mata kuliah tersebut.
+	•	Kriteria Penilaian adalah patokan yang digunakan sebagai ukuran atau tolok ukur ketercapaian pembelajaran dalam penilaian berdasarkan indikator-indikator yang telah ditetapkan. Kriteria penilaian merupakan pedoman bagi penilai agar penilaian konsisten dan tidak bias. Kriteria dapat berupa kuantitatif ataupun kualitatif.
+	•	Indikator penilaian kemampuan dalam proses maupun hasil belajar mahasiswa adalah pernyataan spesifik dan terukur yang mengidentifikasi kemampuan atau kinerja hasil belajar mahasiswa yang disertai bukti-bukti.
+
+
+Komponen Penilaian:
+Komponen
+Bobot
+Deskripsi Penilaian
+Indikator Pencapaian
+Kehadiran dan Keaktifan (10%)
+• Kehadiran dalam perkuliahan (60%)• Keaktifan dalam diskusi, tanya jawab, dan praktikum (40%)
+• Mengikuti perkuliahan dan praktikum secara aktif.• Berpartisipasi dalam diskusi, latihan, dan penyelesaian studi kasus.
+• Kehadiran minimal 80%.• Aktif bertanya, menjawab, berdiskusi, dan mengikuti praktikum pemrograman.
+Tugas dan Praktikum (40%)
+• Ketepatan waktu pengumpulan tugas (20%)• Kebenaran algoritma dan logika program (30%)• Kualitas implementasi program dan dokumentasi (50%)
+• Menyelesaikan tugas algoritma dan implementasi program sesuai spesifikasi.• Mengembangkan program menggunakan bahasa pemrograman sesuai materi perkuliahan.
+• Mahasiswa mampu menyusun algoritma (flowchart/pseudocode) dengan benar.• Mahasiswa mampu membuat program yang berjalan sesuai spesifikasi.• Mahasiswa mampu melakukan debugging serta menghasilkan dokumentasi program yang baik.
+Ujian Tengah Semester (UTS) (25%)
+• Ketepatan menjawab soal (50%)• Pemahaman konsep algoritma dan pemrograman (30%)• Penyelesaian studi kasus sederhana (20%)
+• Evaluasi pemahaman konsep algoritma, flowchart, pseudocode, struktur data dasar, percabangan, dan perulangan.
+• Mahasiswa mampu menjelaskan konsep algoritma dan pemrograman.• Mahasiswa mampu menyusun algoritma serta mengimplementasikan program sederhana menggunakan percabangan dan perulangan.
+Ujian Akhir Semester (UAS) (25%)
+• Ketepatan analisis kebutuhan program (20%)• Kualitas implementasi program (40%)• Pengujian, debugging, dokumentasi, dan presentasi hasil (40%)
+• Evaluasi kemampuan menganalisis masalah, merancang algoritma, mengembangkan program, menguji, mendokumentasikan, dan mempresentasikan hasil.
+• Mahasiswa mampu mengembangkan aplikasi sederhana sesuai studi kasus.• Mahasiswa mampu menerapkan fungsi, array, string, modularisasi, debugging, dan testing.• Mahasiswa mampu menyajikan dokumentasi dan mempresentasikan hasil pengembangan program secara sistematis.
+
+
+
+
+Rubrik Penilaian:
+Nilai
+Kriteria
+A (100–90)
+• Mampu memahami dan menjelaskan seluruh konsep dasar algoritma dan pemrograman dengan sangat baik.• Mampu menyusun algoritma menggunakan flowchart dan pseudocode secara benar dan sistematis.• Mampu mengimplementasikan program menggunakan variabel, tipe data, operator, percabangan, perulangan, fungsi, array, dan string dengan sangat tepat.• Mampu melakukan debugging, testing, dan validasi program secara mandiri.• Mampu mengembangkan aplikasi sederhana yang berjalan sesuai kebutuhan, terdokumentasi dengan baik, dan dipresentasikan secara sistematis.• Menunjukkan keaktifan, kedisiplinan, dan tanggung jawab selama perkuliahan dan praktikum.
+AB (89–80)
+• Memahami sebagian besar konsep algoritma dan pemrograman dengan baik.• Mampu menyusun algoritma dan mengimplementasikan program dengan kesalahan kecil yang tidak memengaruhi fungsi utama.• Mampu menggunakan percabangan, perulangan, fungsi, array, dan string dengan cukup baik.• Mampu melakukan debugging sederhana dan memperbaiki sebagian besar kesalahan program.• Dokumentasi dan presentasi program sudah baik meskipun masih terdapat kekurangan kecil.
+B (79–70)
+• Memahami konsep dasar algoritma dan pemrograman pada tingkat baik.• Mampu membuat program sederhana namun masih terdapat beberapa kesalahan logika atau sintaks.• Mampu menyusun flowchart dan pseudocode dengan cukup benar.• Debugging dan testing masih memerlukan bimbingan.• Dokumentasi program cukup lengkap namun belum sistematis.
+BC (69–60)
+• Memahami konsep algoritma dan pemrograman secara terbatas.• Algoritma yang dibuat belum sepenuhnya sesuai dengan kebutuhan penyelesaian masalah.• Program masih mengandung beberapa kesalahan logika dan sintaks sehingga hasil belum optimal.• Debugging dan pengujian belum dilakukan secara sistematis.• Dokumentasi program masih kurang lengkap.
+C (59–50)
+• Memahami sebagian kecil konsep algoritma dan pemrograman.• Kesulitan menyusun algoritma menggunakan flowchart atau pseudocode.• Program masih banyak mengalami kesalahan sintaks maupun logika.• Belum mampu melakukan debugging dan testing secara mandiri.• Dokumentasi program tidak lengkap.
+D (49–40)
+• Pemahaman terhadap konsep algoritma dan pemrograman sangat terbatas.• Tidak mampu menyusun algoritma yang sesuai dengan permasalahan.• Program tidak dapat dijalankan atau menghasilkan keluaran yang tidak sesuai.• Tidak mampu memperbaiki kesalahan program.• Jawaban UTS dan UAS banyak yang tidak tepat.
+E (<40)
+• Tidak mampu memahami konsep dasar algoritma dan pemrograman.• Tidak mampu menyusun algoritma maupun mengimplementasikannya ke dalam bahasa pemrograman.• Tidak mampu membuat program yang dapat dijalankan.• Tidak mampu melakukan debugging, testing, maupun dokumentasi program.• Tidak mampu menyelesaikan soal UTS maupun UAS dengan benar.
+
