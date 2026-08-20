@@ -4,9 +4,6 @@
 Selamat datang di kelas Algoritma dan Pemrograman! 🎉
 Mungkin nama matkul ini kedengarannya berat dan *nerd* banget ("Wah, bakal banyak matematika rumit nih!"). *Eits*, tunggu dulu! Di sini kita justru bakal belajar gimana caranya bikin komputer mau kerja keras buat kita dengan cara yang asik dan seru.
 
-**Perkenalan & Kontrak Kuliah**
-*(Silakan lihat halaman [Biodata Dosen & Kontrak Kuliah](./00_Biodata_dan_Kontrak_Kuliah.md) sebelum memulai kelas.)*
-
 
 **Semuanya Berawal dari Algoritma!**
 Coba sebutkan aplikasi favorit kalian. Instagram? TikTok? Mobile Legends? Atau Gojek? Tahukah kalian kalau di balik semua aplikasi canggih itu, ada satu "resep rahasia" yang sama? Ya, **Algoritma**. Tanpa algoritma, *smartphone* mahalmu cuma balok kaca dan logam yang nggak bisa ngapa-ngapain. Hari ini, kita bakal bongkar rahasia dari semua teknologi itu!
@@ -15,17 +12,29 @@ Coba sebutkan aplikasi favorit kalian. Instagram? TikTok? Mobile Legends? Atau G
 
 ## Apa Itu Komputer & Komputasi?
 
+**Terminologi Dasar: Program, Software, dan Programmer**
+Sebelum melangkah lebih jauh, mari kita pahami beberapa istilah penting di dunia komputasi:
+- **Program:** Kumpulan instruksi atau aturan spesifik yang harus diikuti oleh komputer untuk mencapai suatu tujuan atau menyelesaikan masalah tertentu.
+- **Software (Perangkat Lunak):** Istilah umum (tidak dapat dihitung/uncountable) yang merujuk pada sekumpulan program. Secara garis besar terbagi menjadi dua:
+  - *System Software (OS)*: Melayani semua pengguna dan menyediakan fungsionalitas dasar (contoh: Windows, macOS, Linux).
+  - *Application Software*: Melayani kebutuhan spesifik pengguna (contoh: Microsoft Office, Web Browser, Media Player).
+- **Programmer:** Seseorang yang membuat program, memberikan instruksi logis agar komputer bekerja sesuai keinginan.
+
+**Hubungan 3P (Programmer, Program, Programming Language)**
+Hubungan ketiganya sangat erat: **Programmer** menulis **Program** menggunakan **Programming Language** (Bahasa Pemrograman). 
+Komputer bisa diibaratkan seperti makhluk asing (*creatures from outer space*) yang hanya mengerti bahasa mesin (biner 0 dan 1). Programmer mempelajari bahasa pemrograman (seperti C, Python, Java) agar bisa berkomunikasi dan memberitahu komputer apa yang harus dilakukan, yang nantinya akan diterjemahkan oleh *Compiler* atau *Interpreter* menjadi bahasa mesin.
+
 **Analogi: Komputer itu "Asisten yang Sangat Cepat Tapi Polos"**
 Banyak yang mikir komputer itu cerdas banget. Fakta sebenarnya: komputer itu **super cepat, tapi super polos (alias bodoh)**. 
-Dia nggak bisa inisiatif ngelakuin apa-apa kalau nggak kita suruh. Tapi kehebatannya, kalau kamu kasih instruksi yang jelas, dia sanggup ngejalanin jutaan perintah dalam sedetik tanpa ngeluh, tanpa minta naik gaji, dan tanpa *coffee break*!
+Dia nggak bisa inisiatif ngelakuin apa-apa kalau nggak kita suruh. Tapi kehebatannya, kalau kamu kasih instruksi yang jelas, dia sanggup mengeksekusi jutaan perintah dalam sedetik tanpa ngeluh, tanpa minta naik gaji, dan tanpa *coffee break*!
 
-Nah, sebagai *Programmer*, peran kita adalah jadi "Bos" yang super detail ngasih instruksi ke si asisten polos ini.
+Nah, sebagai *Programmer*, peran kita adalah jadi "Bos" yang super detail dalam memberikan instruksi ke si asisten polos ini.
 
 **Konsep Dasar Komputasi: Input $\rightarrow$ Process $\rightarrow$ Output**
 Pada dasarnya, cara kerja komputer (atau komputasi) itu sesimpel ini:
-- **Input:** Data atau kondisi awal yang kita kasih ke komputer.
-- **Process:** Langkah-langkah perhitungan dan logika yang komputer kerjain berdasarkan instruksi kita.
-- **Output:** Hasil atau solusi akhir yang disajikan ke kita.
+- **Input:** Data mentah atau kondisi awal yang kita berikan ke komputer.
+- **Process:** Langkah-langkah perhitungan dan logika (algoritma) yang dieksekusi komputer berdasarkan instruksi kita.
+- **Output:** Hasil atau solusi akhir yang disajikan kepada kita.
 
 ---
 
