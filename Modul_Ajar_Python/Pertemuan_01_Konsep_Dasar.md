@@ -86,7 +86,7 @@ Jangan langsung buru-buru ngetik kode! Biasakan gunakan siklus ini:
 *Tugas Diskusi:* 
 Mari kita asah otak! Rumuskan **"Algoritma Menyeberang"** bareng-bareng langkah demi langkah supaya semuanya selamat sampai di seberang. 
 
-![alt text](image.png)
+![Ilustrasi Teka-teki Menyeberang](./assets/images/teka-teki-01.png)
 
 *(Instruksi untuk Dosen: Gunakan papan tulis untuk mencatat langkah-langkah yang diusulkan mahasiswa. Mari seru-seruan!)*
 
