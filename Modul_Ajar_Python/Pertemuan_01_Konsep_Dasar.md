@@ -12,7 +12,7 @@ Coba sebutkan aplikasi favorit kalian. Instagram? TikTok? Mobile Legends? Atau G
 
 ---
 
-## 🤖 Materi 1 (20 Menit) - Apa Itu Komputer & Komputasi?
+## Apa Itu Komputer & Komputasi?
 
 **Analogi: Komputer itu "Asisten yang Sangat Cepat Tapi Polos"**
 Banyak yang mikir komputer itu cerdas banget. Fakta sebenarnya: komputer itu **super cepat, tapi super polos (alias bodoh)**. 
@@ -28,7 +28,7 @@ Pada dasarnya, cara kerja komputer (atau komputasi) itu sesimpel ini:
 
 ---
 
-## 🍜 Materi 2 (25 Menit) - Algoritma: Resep Rahasia Teknologi
+## 🍜 Algoritma: Resep Rahasia Teknologi
 
 **Konsep Dasar Algoritma & Pemrograman**
 Kalau **Algoritma** adalah urutan ide atau langkah-langkah logisnya (resepnya), maka **Pemrograman** adalah proses menerjemahkan resep itu ke bahasa yang komputer ngerti (bahasa mesin atau bahasa pemrograman seperti Python, Java, dll).
@@ -54,7 +54,7 @@ Gimana kalau urutannya ngaco? Misalnya: *Masukkan bumbu ke panci, rebus 3 menit,
 
 ---
 
-## 🧠 Materi 3 (25 Menit) - Logika Pemrograman & Problem Solving
+## 🧠 Logika Pemrograman & Problem Solving
 
 ***Computational Thinking***
 Ini adalah cara berpikir ala ilmuwan komputer (*mindset*). Intinya adalah gimana kita memecah masalah yang gede dan ruwet menjadi masalah-masalah kecil yang lebih gampang diselesaikan (*decomposition*).
@@ -74,7 +74,7 @@ Jangan langsung buru-buru ngetik kode! Biasakan gunakan siklus ini:
 
 ---
 
-## 🧩 Interaksi (20 Menit) - Mini Quiz & Diskusi (Asah Otak!)
+## 🧩 Mini Quiz & Diskusi (Asah Otak!)
 
 **Permainan Teka-Teki: Menyeberangkan Serigala, Kambing, dan Kubis** 🐺🐐🥬
 *Kasus:* Seorang petani harus menyeberangi sungai bawa serigala, kambing, dan sekeranjang kubis. Perahunya cuma muat buat si petani dan SATU bawaan lainnya. 
