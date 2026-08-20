@@ -5,7 +5,6 @@
 - **Mata Kuliah:** Algoritma dan Pemrograman
 - **Program Studi:** Teknik Informasi UIN Palangka Raya
 
-*(Silakan tambahkan informasi kontak, email, atau jam konsultasi di sini)*
 
 ## Deskripsi & Tujuan Mata Kuliah
 Mata kuliah **Algoritma dan Pemrograman** membahas konsep dasar algoritma, logika pemrograman, serta teknik penyelesaian masalah komputasi melalui penyusunan algoritma dan implementasinya menggunakan bahasa pemrograman. 
