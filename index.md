@@ -7,6 +7,6 @@ hero:
   tagline: Ir. Heri Setiawan, M.Kom
   actions:
     - theme: brand
-      text: Mulai Belajar Python
+      text: Mulai Belajar
       link: /Modul_Ajar_Python/Pertemuan_01_Konsep_Dasar
 ---

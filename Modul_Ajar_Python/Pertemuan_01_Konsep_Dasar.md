@@ -88,8 +88,6 @@ Mari kita asah otak! Rumuskan **"Algoritma Menyeberang"** bareng-bareng langkah 
 
 ![Ilustrasi Teka-teki Menyeberang](./assets/images/teka-teki-01.png)
 
-*(Instruksi untuk Dosen: Gunakan papan tulis untuk mencatat langkah-langkah yang diusulkan mahasiswa. Mari seru-seruan!)*
-
 ---
 
 ## 🏁 Penutup (15 Menit) - Kesimpulan & Info Minggu Depan
