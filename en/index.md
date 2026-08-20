@@ -3,8 +3,11 @@ layout: home
 
 hero:
   name: "Information Technology - UIN Palangka Raya"
-  text: "Algorithms and Programming"
+  text: "Algorithm and Programming"
   tagline: Ir. Heri Setiawan, M.Kom
+  image:
+    src: /hero-animation.svg
+    alt: Algorithm and Programming
   actions:
     - theme: brand
       text: Start Learning

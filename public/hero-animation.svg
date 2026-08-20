@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <!-- Animations -->
+    <style>
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        50% { transform: translateY(-20px) rotate(5deg); }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translateY(0) translateX(0) rotate(0deg); }
+        50% { transform: translateY(20px) translateX(10px) rotate(-5deg); }
+      }
+      @keyframes float3 {
+        0%, 100% { transform: translateY(0) scale(1); }
+        50% { transform: translateY(-15px) scale(1.05); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; filter: blur(4px); }
+        50% { opacity: 1; filter: blur(8px); }
+      }
+      @keyframes codeFlow {
+        0% { transform: translateY(0); opacity: 0.8; }
+        50% { transform: translateY(-5px); opacity: 1; }
+        100% { transform: translateY(0); opacity: 0.8; }
+      }
+      
+      .el-1 { animation: float1 6s ease-in-out infinite; transform-origin: center; }
+      .el-2 { animation: float2 8s ease-in-out infinite; transform-origin: center; }
+      .el-3 { animation: float3 7s ease-in-out infinite; transform-origin: center; }
+      .glow { animation: pulse 4s ease-in-out infinite; }
+      .code-line { animation: codeFlow 3s ease-in-out infinite; }
+      
+      .code-bracket { fill: #4f46e5; font-family: monospace; font-weight: bold; font-size: 140px; }
+      .code-slash { fill: #ec4899; font-family: monospace; font-weight: bold; font-size: 160px; }
+      
+      .shape-primary { fill: url(#grad-primary); }
+      .shape-secondary { fill: url(#grad-secondary); }
+      .shape-tertiary { fill: url(#grad-tertiary); }
+    </style>
+    
+    <linearGradient id="grad-primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <linearGradient id="grad-secondary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <linearGradient id="grad-tertiary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Glowing background elements -->
+  <circle cx="400" cy="300" r="150" fill="#4f46e5" class="glow" opacity="0.3" />
+  <circle cx="500" cy="200" r="100" fill="#ec4899" class="glow" opacity="0.2" style="animation-delay: -2s;" />
+
+  <!-- Main center element: Laptop / Screen mock -->
+  <g class="el-3" transform="translate(200, 150)">
+    <!-- Screen Bezel -->
+    <rect x="0" y="0" width="400" height="250" rx="15" fill="#1e1e2f" stroke="#33334d" stroke-width="4"/>
+    <!-- Screen Base -->
+    <rect x="-20" y="250" width="440" height="15" rx="5" fill="#33334d" />
+    <!-- Laptop Notch/Indentation -->
+    <path d="M160 250 L240 250 L250 265 L150 265 Z" fill="#4f46e5" />
+    
+    <!-- Code lines inside screen -->
+    <rect x="30" y="40" width="120" height="12" rx="6" fill="#ec4899" class="code-line" style="animation-delay: 0s;"/>
+    <rect x="30" y="70" width="200" height="12" rx="6" fill="#3b82f6" class="code-line" style="animation-delay: 0.5s;"/>
+    <rect x="60" y="100" width="150" height="12" rx="6" fill="#10b981" class="code-line" style="animation-delay: 1s;"/>
+    <rect x="60" y="130" width="250" height="12" rx="6" fill="#8b5cf6" class="code-line" style="animation-delay: 1.5s;"/>
+    <rect x="30" y="160" width="180" height="12" rx="6" fill="#3b82f6" class="code-line" style="animation-delay: 2s;"/>
+    <rect x="30" y="190" width="80" height="12" rx="6" fill="#ec4899" class="code-line" style="animation-delay: 2.5s;"/>
+  </g>
+
+  <!-- Floating abstract geometric elements -->
+  <g class="el-1" transform="translate(100, 100)">
+    <circle cx="50" cy="50" r="40" class="shape-secondary" />
+    <circle cx="30" cy="30" r="15" fill="#fff" opacity="0.4" />
+  </g>
+
+  <g class="el-2" transform="translate(650, 120)">
+    <rect x="0" y="0" width="80" height="80" rx="20" class="shape-primary" transform="rotate(25)" />
+    <rect x="10" y="10" width="40" height="40" rx="10" fill="#fff" opacity="0.3" transform="rotate(25)" />
+  </g>
+
+  <g class="el-1" transform="translate(130, 420)">
+    <polygon points="45,0 90,90 0,90" class="shape-tertiary" transform="rotate(-15)" />
+  </g>
+
+  <!-- Floating Code Symbols -->
+  <text x="600" y="450" class="code-bracket el-2">&lt;</text>
+  <text x="670" y="480" class="code-slash el-3">/</text>
+  <text x="710" y="450" class="code-bracket el-1">&gt;</text>
+  
+  <text x="50" y="350" class="code-bracket el-2" style="font-size: 100px; fill: #8b5cf6; animation-delay: -3s;">{</text>
+  <text x="120" y="300" class="code-bracket el-3" style="font-size: 100px; fill: #8b5cf6; animation-delay: -1s;">}</text>
+
+</svg>

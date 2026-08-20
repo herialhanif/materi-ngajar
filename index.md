@@ -5,6 +5,9 @@ hero:
   name: "Teknologi Informasi UIN Palangka Raya"
   text: "Algoritma dan Pemrograman"
   tagline: Ir. Heri Setiawan, M.Kom
+  image:
+    src: /hero-animation.svg
+    alt: Algoritma dan Pemrograman
   actions:
     - theme: brand
       text: Mulai Belajar
