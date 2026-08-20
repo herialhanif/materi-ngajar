@@ -30,7 +30,26 @@ Aturan dan kesepakatan dalam perkuliahan Algoritma dan Pemrograman:
 3. **Komponen Penilaian:**
    - Kehadiran & Keaktifan: 10%
    - Tugas & Kuis: 20%
-   - Praktikum/Proyek: 30%
-   - Ujian Tengah Semester (UTS): 20%
-   - Ujian Akhir Semester (UAS): 20%
+   - Tugas dan Praktikum: 40%
+   - Ujian Tengah Semester (UTS): 25%
+   - Ujian Akhir Semester (UAS): 25%
 4. **Etika Kelas:** Mahasiswa diharapkan aktif berdiskusi, saling menghargai, dan menjunjung tinggi kejujuran akademik (tidak melakukan plagiarisme/copy-paste tugas *coding* orang lain).
+
+---
+
+## 📚 Daftar Referensi
+
+Materi dalam modul ini disusun dengan merujuk pada beberapa literatur utama dan pendukung berikut:
+
+**Referensi Utama:**
+1. Deitel, P. J., & Deitel, H. M. (2022). *C How to Program (9th Edition)*. Pearson.
+
+**Referensi Pendukung:**
+2. Downey, A. (2024). *Think Python: How to Think Like a Computer Scientist (3rd Edition)*. O'Reilly Media.
+3. Gaddis, T. (2022). *Starting Out with Programming Logic and Design (6th Edition)*. Pearson.
+4. Sedgewick, R., & Wayne, K. (2022). *Computer Science: An Interdisciplinary Approach (2nd Edition)*. Addison-Wesley.
+5. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms (4th Edition)*. MIT Press.
+6. Downey, A. B. (2021). *Think Java: How to Think Like a Computer Scientist (2nd Edition)*. O'Reilly Media.
+7. Rosa, A. S., & Shalahuddin, M. (2024). *Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek (Edisi Revisi)*. Informatika Bandung.
+8. Kadir, A. (2021). *Dasar Pemrograman*. Penerbit Andi.
+9. Nugroho, A. (2023). *Algoritma dan Pemrograman dengan Python*. Informatika Bandung.

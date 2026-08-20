@@ -4,7 +4,7 @@ Selamat! Kalian sudah berhasil melewati dua babak sebelumnya yang membahas tenta
 
 ## 1. *Computational Thinking*: Menginstal *Mindset Programmer*
 
-*Computational Thinking* (Berpikir Komputasional) bukanlah ilmu tentang cara merakit komputer, dan bukan juga ilmu gaib. Ini adalah sebuah cara berpikir (*mindset*). Intinya, ini adalah kemampuan otak kita untuk mengambil suatu masalah yang gede, ruwet, dan kompleks, lalu memecahnya menjadi masalah-masalah kecil yang jauh lebih gampang untuk diselesaikan (*decomposition*).
+*Computational Thinking* (Berpikir Komputasional) bukanlah ilmu tentang cara merakit komputer, dan bukan juga ilmu gaib. Ini adalah sebuah cara berpikir (*mindset*). Intinya, ini adalah kemampuan otak kita untuk mengambil suatu masalah yang gede, ruwet, dan kompleks, lalu memecahnya menjadi masalah-masalah kecil yang jauh lebih gampang untuk diselesaikan (*decomposition*) [2][4].
 
 **Analisis Bikin Kopi: Orang Awam vs Programmer**
 
@@ -36,7 +36,7 @@ Seorang *programmer* profesional (atau anak IT elit) biasanya menghabiskan 80% w
 4. **Test & Debug (Uji Coba & Perbaikan):** Jangan senang dulu kalau kode sudah selesai diketik. Jalankan programnya berulang-ulang pakai berbagai macam skenario! Uji dengan data yang aneh-aneh. Kalau ternyata programnya *crash* atau *error*, saatnya kalian melakukan perburuan serangga (*debugging*) untuk mencari baris kode mana yang bikin rusak, lalu perbaiki.
 
 Oh ya, buat yang nanya, *"Penting banget ya Pak belajar teori algoritma ini? Kenapa nggak langsung ngoding bikin aplikasi aja?"* 
-Jawabannya: **IYA BANGET!** Dari buku legendaris *Programming Algorithms*, sangat ditekankan bahwa menguasai algoritma dari dasar itu bakal bikin kode kalian super efisien, nggak lemot, dan melatih otak analitis kalian. Inilah modal utama yang membedakan "kuli ketik kode" biasa dengan *Top 10% Programmer* di dunia yang gajinya puluhan juta!
+Jawabannya: **IYA BANGET!** Dari buku legendaris *Introduction to Algorithms* [5], sangat ditekankan bahwa menguasai algoritma dari dasar itu bakal bikin kode kalian super efisien, nggak lemot, dan melatih otak analitis kalian. Inilah modal utama yang membedakan "kuli ketik kode" biasa dengan *Top 10% Programmer* di dunia yang gajinya puluhan juta!
 
 ## 3. Belajar dari Sejarah: Tragedi Bug Y2K (Millennium Bug)
 
