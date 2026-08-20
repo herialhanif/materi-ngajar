@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Modul Algoritma dan Pemrograman', link: '/Modul_Ajar_Python/Pertemuan_01_Konsep_Dasar' }
+      { text: 'Modul Algoritma dan Pemrograman', link: '/Modul_Ajar_Python/00_Biodata_dan_Kontrak_Kuliah' }
     ],
 
     sidebar: [
@@ -15,9 +15,9 @@ export default defineConfig({
         items: [
           { text: 'Biodata & Kontrak Kuliah', link: '/Modul_Ajar_Python/00_Biodata_dan_Kontrak_Kuliah' },
           // { text: 'Pertemuan 01: Konsep Dasar (Versi Asli)', link: '/Modul_Ajar_Python/Pertemuan_01_Konsep_Dasar' },
-          { text: 'Bab 1: Hakikat Komputer', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_1_Hakikat_Komputer' },
-          { text: 'Bab 2: Algoritma & Efisiensi', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_2_Algoritma' },
-          { text: 'Bab 3: Problem Solving', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_3_Problem_Solving' }
+          { text: '01 - Konsep Dasar : Hakikat Komputer', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_1_Hakikat_Komputer' },
+          { text: '01 - Konsep Dasar : Algoritma & Efisiensi', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_2_Algoritma' },
+          { text: '01 - Konsep Dasar : Problem Solving', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_3_Problem_Solving' }
         ]
       }
     ]
