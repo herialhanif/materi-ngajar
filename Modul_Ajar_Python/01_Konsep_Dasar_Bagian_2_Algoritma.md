@@ -100,4 +100,4 @@ Menurut literatur ilmu komputer, algoritma itu ibarat "draf" atau "kerangka" ban
 2. **Flowchart (Diagram Alir):** 
    Kalau *pseudocode* berbasis teks, maka *flowchart* adalah kebalikannya. *Flowchart* itu menggambarkan draf logika menggunakan bentuk-bentuk visual geometris (bangun datar) yang dihubungkan dengan tanda panah. Bentuk oval biasanya dipakai buat nentuin titik *Start/End*, bentuk kotak (persegi panjang) buat proses hitung-hitungan, dan belah ketupat (*diamond*) dipakai buat percabangan/pengambilan keputusan (*If-Else*). Format ini sangat cocok dan disukai oleh orang-orang yang punya tipe belajar visual!
 
-Gimana? Udah mulai kerasa kan "seru"-nya mikirin alur logika? Di bab selanjutnya, kita bakal bahas gimana caranya melatih otak kita biar bisa mikir se-sistematis komputer, yang biasa disebut dengan istilah *Computational Thinking*. Sampai ketemu di sub-bab berikutnya!
+Gimana? Udah mulai kerasa kan "seru"-nya mikirin alur logika? Di bab selanjutnya, kita bakal bahas gimana caranya melatih otak kita biar bisa mikir se-sistematis komputer, yang biasa disebut dengan istilah *Computational Thinking*. 
