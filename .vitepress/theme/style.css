@@ -1,0 +1,79 @@
+:root {
+  /* Royal Blue / Indigo Theme for Education */
+  --vp-c-brand-1: #4f46e5;
+  --vp-c-brand-2: #4338ca;
+  --vp-c-brand-3: #6366f1;
+  --vp-c-brand-soft: rgba(79, 70, 229, 0.14);
+}
+
+.dark {
+  --vp-c-brand-1: #818cf8;
+  --vp-c-brand-2: #6366f1;
+  --vp-c-brand-3: #a5b4fc;
+  --vp-c-brand-soft: rgba(129, 140, 248, 0.16);
+}
+
+/* =========================================
+   Home Page Mesh Gradient Background
+   ========================================= */
+.VPHero {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Light mode mesh gradient */
+.VPHero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ffffff;
+  background-image: 
+    radial-gradient(at 40% 20%, hsla(230,100%,74%,0.25) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(189,100%,56%,0.15) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, hsla(355,100%,93%,0.4) 0px, transparent 50%),
+    radial-gradient(at 80% 50%, hsla(340,100%,76%,0.15) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(22,100%,77%,0.25) 0px, transparent 50%),
+    radial-gradient(at 80% 100%, hsla(242,100%,70%,0.2) 0px, transparent 50%),
+    radial-gradient(at 0% 0%, hsla(343,100%,76%,0.15) 0px, transparent 50%);
+  z-index: -1;
+  opacity: 0.9;
+  filter: blur(40px); /* Smooths out the gradient mesh */
+}
+
+/* Dark mode mesh gradient (softer opacity) */
+.dark .VPHero::before {
+  background-color: transparent;
+  background-image: 
+    radial-gradient(at 40% 20%, hsla(230,100%,74%,0.15) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(189,100%,56%,0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, hsla(355,100%,93%,0.1) 0px, transparent 50%),
+    radial-gradient(at 80% 50%, hsla(340,100%,76%,0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(22,100%,77%,0.15) 0px, transparent 50%),
+    radial-gradient(at 80% 100%, hsla(242,100%,70%,0.15) 0px, transparent 50%),
+    radial-gradient(at 0% 0%, hsla(343,100%,76%,0.1) 0px, transparent 50%);
+  opacity: 0.5;
+}
+
+/* =========================================
+   Button Enhancements (Elegant & Modern)
+   ========================================= */
+.VPButton.brand {
+  box-shadow: 0 4px 14px 0 rgba(79, 70, 229, 0.39);
+  transition: all 0.25s ease;
+}
+
+.VPButton.brand:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.25);
+}
+
+.dark .VPButton.brand {
+  box-shadow: 0 4px 14px 0 rgba(129, 140, 248, 0.25);
+}
+
+.dark .VPButton.brand:hover {
+  box-shadow: 0 6px 20px rgba(129, 140, 248, 0.3);
+}
