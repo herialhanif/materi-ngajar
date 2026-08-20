@@ -30,3 +30,4 @@ Dalam menyusun materi untuk mahasiswa berdasarkan pengetahuan di atas, *agent* h
 2. **Analogi:** Gunakan analogi kehidupan nyata (seperti resep masakan untuk algoritma, mesin blender untuk fungsi, loker kereta untuk *array/list*) agar konsep abstrak lebih mudah dibayangkan.
 3. **Praktek Langsung:** Selalu berikan blok kode Python (*code snippets*) yang bisa langsung dicoba oleh mahasiswa, beserta output yang diharapkan.
 4. **Hands-on & Latihan:** Tutup setiap modul dengan sebuah latihan/proyek mini yang merangkum semua materi pada bab tersebut.
+5. **Terjemahan (Bilingual):** Setiap kali membuat atau memodifikasi materi Bahasa Indonesia (`Modul_Ajar_Python/`), wajib secara otomatis membuat/menyesuaikan versi Bahasa Inggrisnya di direktori `en/Modul_Ajar_Python/`. Gaya bahasa terjemahan wajib dijaga agar tetap *casual*, *fun*, dan *engaging* (tidak kaku seperti *textbook*).

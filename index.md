@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Mulai Belajar
-      link: /Modul_Ajar_Python/Pertemuan_01_Konsep_Dasar
+      link: /Modul_Ajar_Python/00_Biodata_dan_Kontrak_Kuliah
 ---
