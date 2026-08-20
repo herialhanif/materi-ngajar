@@ -16,13 +16,13 @@
 /* =========================================
    Home Page Mesh Gradient Background
    ========================================= */
-.VPHero {
+.VPContent.is-home {
   position: relative;
   overflow: hidden;
 }
 
 /* Light mode mesh gradient */
-.VPHero::before {
+.VPContent.is-home::before {
   content: "";
   position: absolute;
   top: 0;
@@ -44,7 +44,7 @@
 }
 
 /* Dark mode mesh gradient (softer opacity) */
-.dark .VPHero::before {
+.dark .VPContent.is-home::before {
   background-color: transparent;
   background-image: 
     radial-gradient(at 40% 20%, hsla(230,100%,74%,0.15) 0px, transparent 50%),
