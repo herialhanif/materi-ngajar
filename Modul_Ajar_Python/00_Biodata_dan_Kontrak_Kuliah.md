@@ -42,10 +42,10 @@ Aturan dan kesepakatan dalam perkuliahan Algoritma dan Pemrograman:
 Materi dalam modul ini disusun dengan merujuk pada beberapa literatur utama dan pendukung berikut:
 
 **Referensi Utama:**
-1. Mantaci, Roberto. *Basics of Programming and Algorithms*. (Referensi: [`Basics of Programming and Algorithms, Prin - Roberto Mantaci.pdf`](/pdf/Basics%20of%20Programming%20and%20Algorithms,%20Prin%20-%20Roberto%20Mantaci.pdf))
-2. *Algorithms and Programming*. (Referensi: [`Algorithms_Programming.pdf`](/pdf/Algorithms_Programming.pdf))
+1. Mantaci, Roberto. *Basics of Programming and Algorithms*. (Referensi: <a href="/pdf/Basics%20of%20Programming%20and%20Algorithms,%20Prin%20-%20Roberto%20Mantaci.pdf" target="_blank">Basics of Programming and Algorithms, Prin - Roberto Mantaci.pdf</a>)
+2. *Algorithms and Programming*. (Referensi: <a href="/pdf/Algorithms_Programming.pdf" target="_blank">Algorithms_Programming.pdf</a>)
 
 **Referensi Pendukung:**
 
-3. *Principle Algorithm and Programming*. (Referensi: [`Priciple Algorith dan Programming.pdf`](/pdf/Priciple%20Algorith%20dan%20Programming.pdf))
-4. *Programming Languages: Principles and Practices*. (Referensi: [`dokumen.pub_programming-languages-principles-and-practices.pdf`](/pdf/dokumen.pub_programming-languages-principles-and-practices.pdf))
+3. *Principle Algorithm and Programming*. (Referensi: <a href="/pdf/Priciple%20Algorith%20dan%20Programming.pdf" target="_blank">Priciple Algorith dan Programming.pdf</a>)
+4. *Programming Languages: Principles and Practices*. (Referensi: <a href="/pdf/dokumen.pub_programming-languages-principles-and-practices.pdf" target="_blank">dokumen.pub_programming-languages-principles-and-practices.pdf</a>)
