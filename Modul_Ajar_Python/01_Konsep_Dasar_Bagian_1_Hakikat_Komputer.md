@@ -14,6 +14,7 @@ Berawal dari impian itulah, evolusi komputasi lahir. Kita tidak bisa membicaraka
 
 Sekarang, komputer bukan cuma jadi kalkulator raksasa yang makan listrik besar. Mesin ini berevolusi jadi pusat peradaban. Ia bisa dipakai buat mengedit video sinematik, *rendering* *game* 3D dengan grafis super realistis, sampai menerbangkan roket penjelajah ke planet Mars! Kok bisa benda mati jadi sejago itu? Kuncinya satu: komputer itu jago banget dalam **menjalankan instruksi yang diulang-ulang dengan kecepatan luar biasa cepat**, tanpa pernah ngantuk.
 
+
 ## 2. Arsitektur Von Neumann dan Siklus I-P-O
 
 Untuk memahami bagaimana "benda mati" ini bisa terlihat begitu cerdas, kita harus berkenalan dengan yang namanya **Model IPO (Input $\rightarrow$ Process $\rightarrow$ Output)**. Konsep ini pertama kali dipopulerkan oleh matematikawan legendaris John von Neumann lewat arsitektur rancangannya (dikenal sebagai Arsitektur Von Neumann). Mau kalkulator warung yang harganya sepuluh ribu perak atau superkomputer raksasa milik NASA seharga triliunan rupiah, semuanya beroperasi pakai satu pola andalan ini:
