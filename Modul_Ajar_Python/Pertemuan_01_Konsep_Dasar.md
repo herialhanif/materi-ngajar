@@ -81,7 +81,7 @@ Jangan langsung buru-buru ngetik kode! Biasakan gunakan siklus ini:
 - Awas! Kalau ditinggal berdua, serigala bakal makan si kambing.
 - Kalau ditinggal berdua, kambing bakal makan si kubis.
 
-![Teka-teki Pertanian 🐺🐐🥬](https://placehold.co/600x400?text=Teka-Teki+Pertanian)
+![Teka-teki Pertanian 🐺🐐🥬]
 
 *Tugas Diskusi:* 
 Mari kita asah otak! Rumuskan **"Algoritma Menyeberang"** bareng-bareng langkah demi langkah supaya semuanya selamat sampai di seberang. 
