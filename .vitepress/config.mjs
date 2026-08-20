@@ -16,7 +16,7 @@ export default defineConfig({
           { text: 'Biodata & Kontrak Kuliah', link: '/Modul_Ajar_Python/00_Biodata_dan_Kontrak_Kuliah' },
           // { text: 'Pertemuan 01: Konsep Dasar (Versi Asli)', link: '/Modul_Ajar_Python/Pertemuan_01_Konsep_Dasar' },
           {
-            text: '01 - Konsep Dasar',
+            text: 'Pertemuan 01 - Konsep Dasar',
             collapsed: false,
             items: [
               { text: 'Hakikat Komputer', link: '/Modul_Ajar_Python/01_Konsep_Dasar_Bagian_1_Hakikat_Komputer' },
