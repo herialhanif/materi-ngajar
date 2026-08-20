@@ -132,6 +132,12 @@
   height: 48px;
 }
 
+.obstacle svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .obstacle-1 { animation: scrollLeft 4s linear infinite; }
 .obstacle-2 { animation: scrollLeft 4s linear infinite; animation-delay: 2s; width: 56px; }
 
@@ -144,6 +150,12 @@
   opacity: 0.15;
 }
 
+.cloud svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .cloud-1 {
   top: 10px;
   left: 100%;
@@ -154,12 +166,13 @@
 .cloud-2 {
   top: 40px;
   left: 100%;
-  transform: scale(0.7);
+  width: 56px; /* Scaled down width */
+  height: 21px; /* Scaled down height */
   animation: scrollLeft 22s linear infinite;
 }
 
 @keyframes scrollLeft {
-  0% { transform: translateX(0) scale(inherit); }
-  100% { transform: translateX(-150vw) scale(inherit); }
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-150vw); }
 }
 </style>
