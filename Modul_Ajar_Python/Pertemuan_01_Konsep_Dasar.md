@@ -5,9 +5,10 @@ Selamat datang di kelas Algoritma dan Pemrograman! 🎉
 Mungkin nama matkul ini kedengarannya berat dan *nerd* banget ("Wah, bakal banyak matematika rumit nih!"). *Eits*, tunggu dulu! Di sini kita justru bakal belajar gimana caranya bikin komputer mau kerja keras buat kita dengan cara yang asik dan seru.
 
 **Perkenalan & Kontrak Kuliah**
-*(Instruksi untuk Dosen: Lakukan perkenalan singkat, sampaikan aturan kelas, dan buat suasana se-rileks mungkin)*
+*(Silakan lihat halaman [Biodata Dosen & Kontrak Kuliah](./00_Biodata_dan_Kontrak_Kuliah.md) sebelum memulai kelas.)*
 
-**Hook: Semuanya Berawal dari Algoritma!**
+
+**Semuanya Berawal dari Algoritma!**
 Coba sebutkan aplikasi favorit kalian. Instagram? TikTok? Mobile Legends? Atau Gojek? Tahukah kalian kalau di balik semua aplikasi canggih itu, ada satu "resep rahasia" yang sama? Ya, **Algoritma**. Tanpa algoritma, *smartphone* mahalmu cuma balok kaca dan logam yang nggak bisa ngapa-ngapain. Hari ini, kita bakal bongkar rahasia dari semua teknologi itu!
 
 ---
