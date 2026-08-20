@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Teknik Informasi UIN Palangka Raya"
+  name: "Teknologi Informasi UIN Palangka Raya"
   text: "Algoritma dan Pemrograman"
   tagline: Ir. Heri Setiawan, M.Kom
   actions:

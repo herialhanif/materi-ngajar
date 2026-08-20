@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Materi Ngajar",
   description: "Dokumentasi Modul Ajar dan Referensi",
+  themeConfig: {},
   locales: {
     root: {
       label: 'Indonesia',

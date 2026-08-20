@@ -3,7 +3,7 @@
 ## Biodata Dosen
 - **Nama:** Ir. Heri Setiawan, M.Kom
 - **Mata Kuliah:** Algoritma dan Pemrograman
-- **Program Studi:** Teknik Informasi UIN Palangka Raya
+- **Program Studi:** Teknologi Informasi UIN Palangka Raya
 
 
 ## Deskripsi & Tujuan Mata Kuliah
