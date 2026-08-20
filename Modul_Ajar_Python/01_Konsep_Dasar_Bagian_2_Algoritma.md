@@ -18,7 +18,7 @@ Jadi, ini bukan cuma urusan *software*. Kalau kalian bikin jadwal harian dari ba
 
 ## 2. Syarat Mutlak Algoritma yang *Good Looking* (Ideal)
 
-Sama kayak bikin kue, nggak semua urutan langkah bisa disebut algoritma yang "enak" alias valid di dunia komputer. Seorang legenda ilmu komputer bernama Donald Knuth pernah merumuskan bahwa sebuah algoritma, biar bisa diakui kevalidannya dan dieksekusi dengan baik oleh komputer, wajib hukumnya punya 5 sifat (*properties*) ini [5]:
+Sama kayak bikin kue, nggak semua urutan langkah bisa disebut algoritma yang "enak" alias valid di dunia komputer. Seorang legenda ilmu komputer bernama Donald Knuth pernah merumuskan bahwa sebuah algoritma, biar bisa diakui kevalidannya dan dieksekusi dengan baik oleh komputer, wajib hukumnya punya 5 sifat (*properties*) ini [3]:
 
 1. **Input (Masukan):** Algoritma yang baik bisa jadi nggak punya *input* sama sekali (sudah ditentukan dari awal), atau punya banyak *input*. *Input* ini ibarat bahan mentah yang mau diproses. Kalau mau bikin jus, masukannya adalah buah dan gula.
 2. **Output (Keluaran):** Harus ada hasilnya dong! Apa gunanya kita ngerjain langkah-langkah panjang kalau nggak ada hasilnya? Sebuah algoritma wajib menghasilkan minimal satu *output* atau solusi akhir.
@@ -83,7 +83,7 @@ Inti dari contoh di atas adalah: **Algoritma yang baik bukan cuma sekadar bisa n
 
 ## 6. Format Penulisan Algoritma
 
-Menurut literatur ilmu komputer, algoritma itu ibarat "draf" atau "kerangka" bangunan sebelum diketik jadi bahasa pemrograman sungguhan (seperti C++, Java, atau Python). Biar algoritma ini gampang dibaca, dipahami, dan didiskusikan bareng rekan satu tim *programmer* lain tanpa terkendala bahasa pemrograman tertentu, biasanya algoritma ditulis menggunakan dua format populer [3][8]:
+Menurut literatur ilmu komputer, algoritma itu ibarat "draf" atau "kerangka" bangunan sebelum diketik jadi bahasa pemrograman sungguhan (seperti C++, Java, atau Python). Biar algoritma ini gampang dibaca, dipahami, dan didiskusikan bareng rekan satu tim *programmer* lain tanpa terkendala bahasa pemrograman tertentu, biasanya algoritma ditulis menggunakan dua format populer [2]:
 
 1. **Pseudocode (Kode Semu):** 
    Ini adalah cara menulis draf langkah-langkah logika pakai campuran gaya bahasa manusia sehari-hari (biasanya bahasa Inggris) dan *syntax* dasar dari bahasa pemrograman. Nggak ada aturan baku, kaku, atau tanda baca yang ketat di sini. Tujuannya cuma satu: biar strukturnya kelihatan.
