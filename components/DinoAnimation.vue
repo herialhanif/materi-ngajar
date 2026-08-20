@@ -52,12 +52,12 @@
 .dino-container {
   width: 100%;
   height: 120px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   pointer-events: none;
   opacity: 0.8;
-  z-index: 0;
+  z-index: 10;
 }
 
 .dino-world {
@@ -80,7 +80,7 @@
   background-size: 30px 2px, 120px 2px;
   background-position: 0 8px, 0 4px;
   background-repeat: repeat-x;
-  animation: groundScroll 1s linear infinite;
+  animation: groundScroll 2s linear infinite; /* Slowed down from 1s */
   opacity: 0.5;
 }
 
@@ -138,8 +138,8 @@
   display: block;
 }
 
-.obstacle-1 { animation: scrollLeft 4s linear infinite; }
-.obstacle-2 { animation: scrollLeft 4s linear infinite; animation-delay: 2s; width: 56px; }
+.obstacle-1 { animation: scrollLeft 8s linear infinite; } /* Slowed down from 4s */
+.obstacle-2 { animation: scrollLeft 8s linear infinite; animation-delay: 4s; width: 56px; } /* Slowed down from 4s, delay adjusted */
 
 /* Clouds */
 .cloud {
