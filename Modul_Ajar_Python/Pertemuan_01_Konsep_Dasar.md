@@ -84,6 +84,20 @@ Dalam nulis algoritma, urutan itu segalanya. Gimana jadinya kalau urutannya ngac
 
 Nah lho! Ini yang di dunia IT disebut **Logic Error** (Kesalahan Logika). Kalau kalian bikin aplikasi dengan logika kayak gini, komputer nggak bakal nolak. Dia bakal dengan senang hati ngeksekusi instruksi konyol ini dengan kecepatan kilat, tapi hasil akhirnya: Bencana! Program kalian nggak berjalan sesuai tujuan. Itulah kenapa belajar nyusun logika (*problem solving*) itu jauh lebih penting dan lebih susah daripada sekadar ngafalin sintaks *coding*.
 
+### 5. Efisiensi Algoritma: Nggak Semua Jalan Pintas Itu Sama!
+Mengutip dari buku referensi, satu masalah komputasi bisa diselesaikan pakai berbagai macam algoritma. Ada algoritma yang kodenya panjang, ada yang pendek. Ada yang jalan lambat, ada juga yang ngebut!
+
+**Contoh Kasus: Nyari Kata "Zebra" di Kamus Setebal 1000 Halaman.**
+- **Cara A (*Sequential Search*):** Kalian buka halaman 1, cek satu-satu sampai halaman 1000. Ini algoritma yang "bener" (pasti ketemu solusinya), tapi *lambat banget* dan buang-buang waktu komputer. 
+- **Cara B (*Binary Search*):** Kalian buka kamus pas di tengah. Karena "Z" pasti ada di belakang, sisa separuh depan langsung kalian abaikan. Terus kalian belah tengah lagi sisa halamannya. Cara ini *jauh lebih cepat* dan pinter!
+
+Intinya: **Algoritma yang baik bukan cuma sekadar bisa nyelesaiin masalah (bisa jalan), tapi juga harus se-efisien mungkin!**
+
+### 6. Format Penulisan Algoritma
+Menurut literatur, algoritma itu ibarat "draf" sebelum diketik jadi bahasa pemrograman beneran (seperti C++ atau Python). Biar algoritma ini gampang dibaca dan didiskusiin bareng *programmer* lain, biasanya ditulis pakai 2 format utama:
+- **Pseudocode:** Nulis draf langkah-langkah pakai campuran bahasa manusia dan bahasa pemrograman (*english-like style*). Nggak ada aturan baku yang ketat.
+- **Flowchart (Diagram Alir):** Menggambarkan draf logika pakai bentuk visual/bangun datar (kayak kotak, belah ketupat, dan oval) yang dihubungin sama tanda panah. Cocok buat yang suka visual!
+
 ---
 
 ## 🧠 Logika Pemrograman & Problem Solving
